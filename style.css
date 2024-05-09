@@ -56,9 +56,9 @@ main {
     overflow: hidden;
     background-color: var(--white-color);
 
-    -webkit-box-shadow: 0px 5px 79px -27px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 5px 79px -27px rgba(0,0,0,0.75);
-    box-shadow: 0px 5px 79px -27px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 71px -39px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 71px -39px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 71px -39px rgba(0,0,0,0.75);
 }
 
 /* "JOIN" SECTION STYLING */
@@ -134,8 +134,8 @@ main {
     border: 0;
     font-size: 1rem;
     font-weight: var(--font-weight-high);
-    padding-block: 1.1em;
-    border-radius: 0.3em;
+    padding-block: 0.93em;
+    border-radius: 0.2em;
 
     -webkit-box-shadow: 0px 5px 73px -16px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 5px 73px -16px rgba(0,0,0,0.75);
